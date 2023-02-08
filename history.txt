@@ -1,0 +1,17 @@
+commit 452e91a3f4113c74a0053fb98d7ec6a3064c152e
+Author: Brady Klein <bmklein@mit.edu>
+Date:   Wed Feb 8 16:02:08 2023 -0500
+
+    copied files from intro_to_git
+
+commit d26ae4185477efe984c1f5ec358e044b85bb2300
+Author: Brady Klein <bmklein@mit.edu>
+Date:   Wed Feb 8 15:52:21 2023 -0500
+
+    Added copy of linux exercises
+
+commit 37edc724db887513b31bc92deb5060b03dee5337
+Author: bmklein5 <97054829+bmklein5@users.noreply.github.com>
+Date:   Wed Feb 8 15:49:05 2023 -0500
+
+    Initial commit
