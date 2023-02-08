@@ -1,29 +1,29 @@
 diff --git a/random.txt b/random.txt
-index 1e8a50b..349624d 100644
+index 1217652..2e370db 100644
 --- a/random.txt
 +++ b/random.txt
-@@ -1,17 +1,8 @@
--Grains of the golden sand--
--Is it therefore the less gone?
--Grains of the golden sand--
--Of a surf-tormented shore,
+@@ -1,21 +1,5 @@
+-Yet if hope has flown away
 -Through my fingers to the deep,
--O God! can I not save
--One from the pitiless wave?
--Is it therefore the less gone?
--Grains of the golden sand--
--How few! yet how they creep
-+Yet if hope has flown away
-+All that we see or seem
-+Take this kiss upon the brow!
-+While I weep--while I weep!
-+All that we see or seem
- In a night, or in a day,
 -And I hold within my hand
--How few! yet how they creep
--
--And, in parting from you now,
 -That my days have been a dream;
--You are not wrong, who deem
-+Take this kiss upon the brow!
-+Thus much let me avow--
+-Through my fingers to the deep,
+-All that we see or seem
+-One from the pitiless wave?
+-How few! yet how they creep
+-I stand amid the roar
++Of a surf-tormented shore,
+ 
+-Is but a dream within a dream.
++O God! can I not save
+ Grains of the golden sand--
+-How few! yet how they creep
+-And, in parting from you now,
+-Through my fingers to the deep,
+-All that we see or seem
+-Thus much let me avow--
+-And, in parting from you now,
+-O God! can I not grasp
+-Through my fingers to the deep,
+-I stand amid the roar
++Is all that we see or seem
