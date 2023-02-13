@@ -20,7 +20,7 @@ pwd
 sudo apt install inxi
 #####End of Question#######
 #####2b#######
-inxi --help
+man inxi
 #####End of Question#######
 #####2c#######
 inxi -A
